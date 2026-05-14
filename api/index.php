@@ -840,8 +840,7 @@
 
         </div> 
 </div>
-</div>
-
+</div><br><br>
 
         <!-- Projet 5 -->
     <div class="project-card fade-in">
@@ -1058,6 +1057,9 @@
     </div>
 
 </div>
+<br> <br
+
+
 
  <div class="projects-grid">
   <!-- Projet 9 -->
