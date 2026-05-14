@@ -522,7 +522,7 @@
         <img src="ta-photo.jpg" alt="Sara Hamda"/>
         Si pas encore de photo, on garde le placeholder :
       -->
-      <img src="/sara.jpeg" alt="Sara Hamda"/>
+      <img src="/hm.jpeg" alt="Sara Hamda"/>
     </div>
 
     <div class="hero-text">
@@ -840,7 +840,7 @@
 
         </div> 
 </div>
-</div><br><br>
+</div><br>
 
         <!-- Projet 5 -->
     <div class="project-card fade-in">
@@ -1057,7 +1057,7 @@
     </div>
 
 </div>
-<br> <br
+<br>c:\wamp6\www\portfolio\public\hm.jpegc:\wamp6\www\portfolio\public\hm.jpeg
 
 
 
