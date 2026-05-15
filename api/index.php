@@ -840,7 +840,7 @@
 
         </div> 
 </div>
-</div><br>
+</div>
 
         <!-- Projet 5 -->
     <div class="project-card fade-in">
@@ -1057,7 +1057,7 @@
     </div>
 
 </div>
-<br>c:\wamp6\www\portfolio\public\hm.jpegc:\wamp6\www\portfolio\public\hm.jpeg
+
 
 
 
