@@ -522,7 +522,7 @@
         <img src="ta-photo.jpg" alt="Sara Hamda"/>
         Si pas encore de photo, on garde le placeholder :
       -->
-      <img src="/sara hm.jpeg" alt="Sara Hamda"/>
+      <img src="/sara.jpeg" alt="Sara Hamda"/>
     </div>
 
     <div class="hero-text">
@@ -842,6 +842,7 @@
 </div>
 </div>
 
+
         <!-- Projet 5 -->
     <div class="project-card fade-in">
       <div class="project-thumb">
@@ -1058,11 +1059,81 @@
 
 </div>
 
-
-
-
- <div class="projects-grid">
+<div class="projects-grid">
   <!-- Projet 9 -->
+    <div class="project-card fade-in">
+      <div class="project-thumb">
+        <!--
+          REMPLACE par une vraie capture d'écran :
+          <img src="projet1.png" alt="Projet 1"/>
+        -->
+        <div class="thumb-illustration">
+          <svg width="260" height="180" viewBox="0 0 260 180" fill="none">
+            <rect x="20" y="20" width="180" height="120" rx="8" fill="#1e2a4a" stroke="#4f6ef7" stroke-width="1"/>
+            <rect x="20" y="20" width="180" height="22" rx="8" fill="#4f6ef7" opacity="0.4"/>
+            <circle cx="33" cy="31" r="4" fill="#4f6ef7" opacity="0.7"/>
+            <circle cx="46" cy="31" r="4" fill="#4f6ef7" opacity="0.4"/>
+            <rect x="30" y="55" width="50" height="60" rx="4" fill="#2a3a6a"/>
+            <rect x="90" y="55" width="50" height="60" rx="4" fill="#2a3a6a"/>
+            <rect x="150" y="55" width="40" height="60" rx="4" fill="#2a3a6a"/>
+            <rect x="30" y="118" width="50" height="8" rx="3" fill="#4f6ef7" opacity="0.6"/>
+            <rect x="90" y="118" width="50" height="8" rx="3" fill="#4f6ef7" opacity="0.6"/>
+            <rect x="150" y="118" width="40" height="8" rx="3" fill="#4f6ef7" opacity="0.6"/>
+            <!-- phone -->
+            <rect x="195" y="60" width="45" height="76" rx="6" fill="#1e2a4a" stroke="#4f6ef7" stroke-width="1"/>
+            <rect x="199" y="68" width="37" height="60" rx="3" fill="#2a3a6a"/>
+            <rect x="207" y="138" width="20" height="4" rx="2" fill="#4f6ef7" opacity="0.4"/>
+          </svg>
+        </div>
+</div>
+
+      <div class="project-info">
+        <h3>atelier 9</h3>
+        <p></p>
+        <div class="project-actions">
+          <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="atelier 4.php" onclick="alert('Lien code ici')">Code</a>
+          <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier-9.git" onclick="alert('Lien GitHub ici')">GitHub</a>
+
+        </div> 
+</div>
+</div>
+
+<!-- Projet 10 -->
+    <div class="project-card fade-in">
+      <div class="project-thumb">
+        <div class="thumb-illustration">
+          <svg width="260" height="180" viewBox="0 0 260 180" fill="none">
+            <!-- ecommerce site -->
+            <rect x="10" y="15" width="240" height="155" rx="6" fill="#f9f5f2"/>
+            <!-- navbar -->
+            <rect x="10" y="15" width="240" height="28" rx="6" fill="#ffffff" stroke="#e0d5cc" stroke-width="0.5"/>
+            <rect x="20" y="22" width="50" height="6" rx="3" fill="#c8a882"/>
+            <rect x="170" y="21" width="22" height="8" rx="2" fill="#e8b89a"/>
+            <rect x="196" y="21" width="22" height="8" rx="2" fill="#e8b89a" opacity="0.5"/>
+            <rect x="222" y="21" width="22" height="8" rx="2" fill="#e8b89a" opacity="0.5"/>
+            <!-- hero image area -->
+            <rect x="10" y="43" width="120" height="90" fill="#edd5c0"/>
+            <rect x="130" y="43" width="120" height="90" fill="#d4c4b8"/>
+            <!-- product cards row -->
+            <rect x="14" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+            <rect x="76" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+            <rect x="138" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+            <rect x="200" y="138" width="46" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+          </svg>
+        </div>
+      </div>
+      <div class="project-info">
+        <h3> Atelier 10</h3>
+        <div class="project-actions">
+          <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier-10.git" onclick="alert('Lien GitHub ici')">GitHub</a>
+         
+        </div>
+      </div>
+    </div>
+
+    <!-- Projet 11 -->
     <div class="project-card fade-in">
       <div class="project-thumb">
         <div class="thumb-illustration">
@@ -1091,50 +1162,17 @@
         </div>
       </div>
       <div class="project-info">
-        <h3>atelier 9</h3>
+        <h3>atelier 11</h3>
         <div class="project-actions">
           <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
-          <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier-9.git" onclick="alert('Lien GitHub ici')">GitHub</a>
+          <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier-11.git" onclick="alert('Lien GitHub ici')">GitHub</a>
          
         </div>
       </div>
     </div>
-
-    <!-- Projet 10 -->
-    <div class="project-card fade-in">
-      <div class="project-thumb">
-        <div class="thumb-illustration">
-          <svg width="260" height="180" viewBox="0 0 260 180" fill="none">
-            <!-- ecommerce site -->
-            <rect x="10" y="15" width="240" height="155" rx="6" fill="#f9f5f2"/>
-            <!-- navbar -->
-            <rect x="10" y="15" width="240" height="28" rx="6" fill="#ffffff" stroke="#e0d5cc" stroke-width="0.5"/>
-            <rect x="20" y="22" width="50" height="6" rx="3" fill="#c8a882"/>
-            <rect x="170" y="21" width="22" height="8" rx="2" fill="#e8b89a"/>
-            <rect x="196" y="21" width="22" height="8" rx="2" fill="#e8b89a" opacity="0.5"/>
-            <rect x="222" y="21" width="22" height="8" rx="2" fill="#e8b89a" opacity="0.5"/>
-            <!-- hero image area -->
-            <rect x="10" y="43" width="120" height="90" fill="#edd5c0"/>
-            <rect x="130" y="43" width="120" height="90" fill="#d4c4b8"/>
-            <!-- product cards row -->
-            <rect x="14" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
-            <rect x="76" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
-            <rect x="138" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
-            <rect x="200" y="138" width="46" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
-          </svg>
-        </div>
-      </div>
-      <div class="project-info">
-        <h3> atelier 10</h3>
-        <div class="project-actions">
-          <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
-          <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier-10.git" onclick="alert('Lien GitHub ici')">GitHub</a>
-         
-        </div>
-      </div>
-    </div>
-
 </div>
+
+
 
 </section>
 
