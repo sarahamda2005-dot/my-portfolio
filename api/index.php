@@ -1170,11 +1170,11 @@
         </div>
       </div>
     </div>
-</div>
+</div><br>
 
 
 <div class="projects-grid">
-  <!-- Projet 11 -->
+  <!-- Projet 12 -->
 <div class="project-card fade-in">
       <div class="project-thumb">
         <div class="thumb-illustration">
