@@ -1173,6 +1173,120 @@
 </div>
 
 
+<div class="projects-grid">
+  <!-- Projet 11 -->
+<div class="project-card fade-in">
+      <div class="project-thumb">
+        <div class="thumb-illustration">
+          <svg width="260" height="180" viewBox="0 0 260 180" fill="none">
+            <!-- sidebar -->
+            <rect x="15" y="25" width="55" height="140" rx="6" fill="#151e32"/>
+            <rect x="22" y="40" width="40" height="6" rx="3" fill="#4f6ef7" opacity="0.5"/>
+            <rect x="22" y="54" width="35" height="5" rx="2" fill="#ffffff" opacity="0.15"/>
+            <rect x="22" y="66" width="38" height="5" rx="2" fill="#ffffff" opacity="0.15"/>
+            <rect x="22" y="78" width="32" height="5" rx="2" fill="#ffffff" opacity="0.15"/>
+            <!-- main content -->
+            <rect x="80" y="35" width="70" height="24" rx="4" fill="#2a3a6a"/>
+            <text x="115" y="51" font-size="11" fill="#4f6ef7" font-family="sans-serif" text-anchor="middle" font-weight="600">30.15</text>
+            <rect x="160" y="35" width="70" height="24" rx="4" fill="#1e3040"/>
+            <!-- donut chart -->
+            <circle cx="105" cy="110" r="28" stroke="#4f6ef7" stroke-width="10" fill="none" stroke-dasharray="88 88" stroke-dashoffset="22" opacity="0.8"/>
+            <circle cx="105" cy="110" r="28" stroke="#5dcaa5" stroke-width="10" fill="none" stroke-dasharray="40 136" stroke-dashoffset="-66" opacity="0.7"/>
+            <circle cx="105" cy="110" r="28" stroke="#f7c94f" stroke-width="10" fill="none" stroke-dasharray="30 146" stroke-dashoffset="-106" opacity="0.6"/>
+            <!-- bars -->
+            <rect x="150" y="140" width="12" height="20" rx="2" fill="#4f6ef7" opacity="0.8"/>
+            <rect x="166" y="128" width="12" height="32" rx="2" fill="#4f6ef7" opacity="0.7"/>
+            <rect x="182" y="118" width="12" height="42" rx="2" fill="#4f6ef7" opacity="0.8"/>
+            <rect x="198" y="108" width="12" height="52" rx="2" fill="#4f6ef7"/>
+            <rect x="214" y="120" width="12" height="40" rx="2" fill="#4f6ef7" opacity="0.7"/>
+          </svg>
+        </div>
+      </div>
+      <div class="project-info">
+        <h3>atelier 12</h3>
+        <div class="project-actions">
+          <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier-12.git" onclick="alert('Lien GitHub ici')">GitHub</a>
+         
+        </div>
+      </div>
+    </div>
+
+
+      <!-- Projet 13 -->
+    <div class="project-card fade-in">
+      <div class="project-thumb">
+        <div class="thumb-illustration">
+          <svg width="260" height="180" viewBox="0 0 260 180" fill="none">
+            <!-- ecommerce site -->
+            <rect x="10" y="15" width="240" height="155" rx="6" fill="#f9f5f2"/>
+            <!-- navbar -->
+            <rect x="10" y="15" width="240" height="28" rx="6" fill="#ffffff" stroke="#e0d5cc" stroke-width="0.5"/>
+            <rect x="20" y="22" width="50" height="6" rx="3" fill="#c8a882"/>
+            <rect x="170" y="21" width="22" height="8" rx="2" fill="#e8b89a"/>
+            <rect x="196" y="21" width="22" height="8" rx="2" fill="#e8b89a" opacity="0.5"/>
+            <rect x="222" y="21" width="22" height="8" rx="2" fill="#e8b89a" opacity="0.5"/>
+            <!-- hero image area -->
+            <rect x="10" y="43" width="120" height="90" fill="#edd5c0"/>
+            <rect x="130" y="43" width="120" height="90" fill="#d4c4b8"/>
+            <!-- product cards row -->
+            <rect x="14" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+            <rect x="76" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+            <rect x="138" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+            <rect x="200" y="138" width="46" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+          </svg>
+        </div>
+      </div>
+      <div class="project-info">
+        <h3> Atelier 13</h3>
+        <div class="project-actions">
+          <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="#" onclick="alert('Lien GitHub ici')">GitHub</a>
+         
+        </div>
+      </div>
+    </div>
+
+  
+      <!-- Projet 14 -->
+
+      <div class="project-card fade-in">
+      <div class="project-thumb">
+        <div class="thumb-illustration">
+          <svg width="260" height="180" viewBox="0 0 260 180" fill="none">
+            <rect x="20" y="20" width="180" height="120" rx="8" fill="#1e2a4a" stroke="#4f6ef7" stroke-width="1"/>
+            <rect x="20" y="20" width="180" height="22" rx="8" fill="#4f6ef7" opacity="0.4"/>
+            <circle cx="33" cy="31" r="4" fill="#4f6ef7" opacity="0.7"/>
+            <circle cx="46" cy="31" r="4" fill="#4f6ef7" opacity="0.4"/>
+            <rect x="30" y="55" width="50" height="60" rx="4" fill="#2a3a6a"/>
+            <rect x="90" y="55" width="50" height="60" rx="4" fill="#2a3a6a"/>
+            <rect x="150" y="55" width="40" height="60" rx="4" fill="#2a3a6a"/>
+            <rect x="30" y="118" width="50" height="8" rx="3" fill="#4f6ef7" opacity="0.6"/>
+            <rect x="90" y="118" width="50" height="8" rx="3" fill="#4f6ef7" opacity="0.6"/>
+            <rect x="150" y="118" width="40" height="8" rx="3" fill="#4f6ef7" opacity="0.6"/>
+            <!-- phone -->
+            <rect x="195" y="60" width="45" height="76" rx="6" fill="#1e2a4a" stroke="#4f6ef7" stroke-width="1"/>
+            <rect x="199" y="68" width="37" height="60" rx="3" fill="#2a3a6a"/>
+            <rect x="207" y="138" width="20" height="4" rx="2" fill="#4f6ef7" opacity="0.4"/>
+          </svg>
+        </div>
+</div>
+
+      <div class="project-info">
+        <h3>atelier 14</h3>
+        <p></p>
+        <div class="project-actions">
+          <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="#" onclick="alert('Lien GitHub ici')">GitHub</a>
+
+        </div> 
+</div>
+</div>
+
+    
+
+
+</div>
 
 </section>
 
