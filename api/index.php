@@ -786,7 +786,7 @@
        <div class="project-info">
         <h3>Exercice 1</h3>
         <div class="project-actions">
-          <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-live" href="Atelier 3 ex1.pdf" onclick="alert('Lien live demo ici')">View Live</a>
           <a class="btn-code" href="exercice5 atel 3.php" onclick="alert('Lien code ici')">Code</a>
         </div>
       </div>
@@ -794,7 +794,7 @@
        <div class="project-info">
         <h3>Exercice 2</h3>
         <div class="project-actions">
-          <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-live" href="Atelier 3 ex2.pdf" onclick="alert('Lien live demo ici')">View Live</a>
           <a class="btn-code" href="exercice6 atel 3.php" onclick="alert('Lien code ici')">Code</a>
         </div>
       </div>
