@@ -1170,8 +1170,8 @@
         </div>
       </div>
     </div>
-</div><br>
-
+</div>
+ <br>
 
 <div class="projects-grid">
   <!-- Projet 12 -->
