@@ -834,7 +834,7 @@
         <h3>atelier 4</h3>
         <p></p>
         <div class="project-actions">
-          <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-live" href="Atelier 4.pdf" onclick="alert('Lien live demo ici')">View Live</a>
           <a class="btn-code" href="atelier 4.php" onclick="alert('Lien code ici')">Code</a>
           <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier4.git" onclick="alert('Lien GitHub ici')">GitHub</a>
 
