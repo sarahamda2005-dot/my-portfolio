@@ -787,7 +787,7 @@
         <h3>Exercice 1</h3>
         <div class="project-actions">
           <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
-          <a class="btn-code" href="#" onclick="alert('Lien code ici')">Code</a>
+          <a class="btn-code" href="exercice5 atel 3.php" onclick="alert('Lien code ici')">Code</a>
         </div>
       </div>
 
@@ -795,7 +795,7 @@
         <h3>Exercice 2</h3>
         <div class="project-actions">
           <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
-          <a class="btn-code" href="#" onclick="alert('Lien code ici')">Code</a>
+          <a class="btn-code" href="exercice6 atel 3.php" onclick="alert('Lien code ici')">Code</a>
         </div>
       </div>
     </div>
