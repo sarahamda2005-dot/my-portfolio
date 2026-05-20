@@ -1241,7 +1241,7 @@
         <h3> Atelier 13</h3>
         <div class="project-actions">
           <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
-          <a class="btn-code" href="#" onclick="alert('Lien GitHub ici')">GitHub</a>
+          <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier-13.git" onclick="alert('Lien GitHub ici')">GitHub</a>
          
         </div>
       </div>
@@ -1277,7 +1277,7 @@
         <p></p>
         <div class="project-actions">
           <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
-          <a class="btn-code" href="#" onclick="alert('Lien GitHub ici')">GitHub</a>
+          <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier-14.git" onclick="alert('Lien GitHub ici')">GitHub</a>
 
         </div> 
 </div>
