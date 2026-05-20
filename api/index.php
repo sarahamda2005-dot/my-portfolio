@@ -880,7 +880,6 @@
         <p></p>
         <div class="project-actions">
           <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
-          <a class="btn-code" href=" " onclick="alert('Lien code ici')">Code</a>
           <a class="btn-code" href="https://github.com/sarahamda2005-dot/ateliers5.git" onclick="alert('Lien GitHub ici')">GitHub</a>
         </div>
 </div>
